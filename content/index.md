@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Gear for Solo Home Recording
 ---
 
 This is a blank Quartz installation.
