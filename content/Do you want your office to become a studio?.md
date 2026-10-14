@@ -1,4 +1,3 @@
-# Do you want your office to become a studio?
 ## A video result that looks like this:
 
 ![[Pasted image 20261014105550.png]]
