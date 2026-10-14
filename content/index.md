@@ -2,5 +2,4 @@
 title: Gear for Solo Home Recording
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Gear for solo recording in a home office
