@@ -1,2 +1,0 @@
-Desk mount
-Stand mount
