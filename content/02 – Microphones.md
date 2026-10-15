@@ -22,5 +22,5 @@ Fly in from boom:
 ___
 
 Wired/wireless
-Analog/digital
+With or without audio interface
 

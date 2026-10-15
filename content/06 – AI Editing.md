@@ -13,6 +13,6 @@
 	- Canva
 	- Wistia
 	- Opus Pro
+	- Submagic
+	- Capcut
 
-- 
-	- 

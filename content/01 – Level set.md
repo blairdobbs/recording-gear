@@ -7,6 +7,7 @@
 
 ![[Pasted image 20261014105508.png]]
 
+
 ## Another example:
 
 ![[Pasted image 20261015110016.png]]
